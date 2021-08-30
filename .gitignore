@@ -1,10 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
-
 .gradle
 .idea
-.build
-.out
-
+build
+out
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij
