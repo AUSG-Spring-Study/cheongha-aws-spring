@@ -4,6 +4,9 @@
 build
 out
 
+# 구글 로그인을 위한 클라이언트 ID와 클라이언트 보안 비밀 정보
+application-oauth.properties
+
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij
 
